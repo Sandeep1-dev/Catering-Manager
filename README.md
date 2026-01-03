@@ -75,17 +75,4 @@ flutter run
 Sandeep Kumar
 Flutter Developer
 
-⭐ If you like this project, give it a star on GitHub.
-
-My honest take
-
-This version is perfect for GitHub scanning.
-If you want, next I can:
-
-add screenshots section
-
-write a 1-line project tagline
-
-optimize it for recruiters & LinkedIn
-
-Just tell me.
+⭐ If you like this project, give it a star on GitHub.g
