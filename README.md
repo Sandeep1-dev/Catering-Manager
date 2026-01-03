@@ -1,16 +1,91 @@
-# ai_menu_generator
+🍽️ AI Catering Management App
 
-A new Flutter project.
+An AI-powered catering management system built using Flutter + FastAPI, designed to help caterers automate menu creation, pricing, invoicing, and payment tracking.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🤖 AI Menu Generator (Gemini API)
 
-A few resources to get you started if this is your first Flutter project:
+📱 Cross-platform Flutter mobile app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⚡ FastAPI backend with SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💰 Smart pricing calculation
+
+🧾 Automatic invoice generation (PDF)
+
+📊 Payment & order tracking
+
+📴 Offline support with local caching
+
+🧠 AI Menu Generator
+
+Generate customized catering menus using AI based on:
+
+Event type
+
+Cuisine
+
+Guest count
+
+Budget
+
+Dietary preferences & restrictions
+
+AI returns a structured menu (JSON) with categories, quantities, and optional cost estimation.
+
+🏗️ Tech Stack
+
+Frontend: Flutter
+
+Backend: FastAPI
+
+Database: SQLite
+
+AI: Gemini API
+
+Auth: JWT
+
+PDF: Flutter PDF
+
+Local Cache: sqflite
+
+📱 App Modules
+
+AI Menu Generator
+
+Pricing Module
+
+Invoice Generation
+
+Payment Tracking
+
+Orders Dashboard
+
+▶️ Setup
+# Backend
+uvicorn main:app --reload
+
+# Flutter
+flutter pub get
+flutter run
+
+👨‍💻 Author
+
+Sandeep Kumar
+Flutter Developer
+
+⭐ If you like this project, give it a star on GitHub.
+
+My honest take
+
+This version is perfect for GitHub scanning.
+If you want, next I can:
+
+add screenshots section
+
+write a 1-line project tagline
+
+optimize it for recruiters & LinkedIn
+
+Just tell me.
